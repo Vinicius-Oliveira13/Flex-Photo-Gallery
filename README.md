@@ -5,7 +5,7 @@ Este projeto simula uma galeria de fotos utilizando as propriedades flex do CSS.
 ## 📌 Tecnologias Utilizadas
 
 - **HTML**
-- ** CSS (Flexbox) **
+- **CSS (Flexbox)**
 
 ## 🎯 Funcionalidades
 
@@ -16,12 +16,13 @@ Este projeto simula uma galeria de fotos utilizando as propriedades flex do CSS.
 
 ## 🚀 Como Executar
 
-1. ** Clone este repositório: **
+1. **Clone este repositório:**
+  ```bash
+  git clone https://github.com/seu-usuario/flex-photo-gallery.git
+  ```
 
-git clone https://github.com/seu-usuario/flex-photo-gallery.git
-
-2. ** Acesse a pasta do projeto: **
+2. **Acesse a pasta do projeto:**
 
 cd flex-photo-gallery
 
-3. ** Abra o arquivo index.html em seu navegador. **
+3. **Abra o arquivo index.html em seu navegador.**
