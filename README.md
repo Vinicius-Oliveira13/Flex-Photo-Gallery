@@ -4,7 +4,7 @@ Este projeto simula uma galeria de fotos utilizando as propriedades flex do CSS.
 
 ## 📌 Tecnologias Utilizadas
 
-- ** HTML **
+- **HTML**
 - ** CSS (Flexbox) **
 
 ## 🎯 Funcionalidades
