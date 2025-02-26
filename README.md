@@ -22,7 +22,7 @@ Este projeto simula uma galeria de fotos utilizando as propriedades flex do CSS.
   ```
 
 2. **Acesse a pasta do projeto:**
-
-cd flex-photo-gallery
-
+  ```bash
+  cd flex-photo-gallery
+  ```
 3. **Abra o arquivo index.html em seu navegador.**
