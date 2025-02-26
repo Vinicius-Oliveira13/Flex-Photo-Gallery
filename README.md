@@ -9,10 +9,10 @@ Este projeto simula uma galeria de fotos utilizando as propriedades flex do CSS.
 
 ## 🎯 Funcionalidades
 
--Layout responsivo utilizando Flexbox
--Organização automática das imagens
--Adaptação a diferentes tamanhos de tela
--Imagens carregadas automaticamente do Unsplash
+- Layout responsivo utilizando Flexbox
+- Organização automática das imagens
+- Adaptação a diferentes tamanhos de tela
+- Imagens carregadas automaticamente do Unsplash
 
 ## 🚀 Como Executar
 
